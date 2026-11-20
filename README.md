@@ -41,22 +41,22 @@ Certificado ISTQB® CTFL, CTAL-TA e CTAL-TM, com formação em automação web c
 
 ## Certificações
 
-- **ISTQB® Certified Tester Advanced Level – Test Management (CTAL-TM) v3.0** · mai/2026 · Credencial Brightest2026035645
-- **ISTQB® Certified Tester Advanced Level – Test Analyst (CTAL-TA) v4.0** · abr/2026 · Credencial Brightest2026035369
-- **ISTQB® Certified Tester Foundation Level (CTFL) v4.0** · jul/2024 · Credencial Brightest2024026699
+- **ISTQB® Certified Tester Advanced Level – Test Management (CTAL-TM) v3.0**
+- **ISTQB® Certified Tester Advanced Level – Test Analyst (CTAL-TA) v4.0**
+- **ISTQB® Certified Tester Foundation Level (CTFL) v4.0**
 
 ## Cursos complementares
 
-- Automação de Testes com Selenium WebDriver e C# – Completo · Udemy · set/2024
-- Testes Automatizados – Curso completo com Selenium e Java · Udemy · abr/2025
-- Curso Completo de Automação de Testes para Iniciantes · Udemy · mar/2025
-- Java Completo: Programação Orientada a Objetos + Projetos · Udemy · nov/2022
-- Desenvolvimento Web Completo 2022 – 20 cursos + 20 projetos · Udemy · nov/2022
-- Git e GitHub para Iniciantes com Projetos Reais · Udemy · mar/2026
-- Gestão Ágil com Scrum Completo · Udemy · mai/2021
-- Análise de Requisitos de Software com Histórias de Usuários · Udemy · mar/2021
-- Noções Básicas do Trabalho Remoto · Enap · mai/2026
-- Lei Geral de Proteção de Dados (LGPD) · Fundação Bradesco · mai/2026
+- Automação de Testes com Selenium WebDriver e C# – Completo
+- Testes Automatizados – Curso completo com Selenium e Java
+- Curso Completo de Automação de Testes para Iniciantes
+- Java Completo: Programação Orientada a Objetos + Projetos
+- Desenvolvimento Web Completo 2022 – 20 cursos + 20 projetos
+- Git e GitHub para Iniciantes com Projetos Reais
+- Gestão Ágil com Scrum Completo
+- Análise de Requisitos de Software com Histórias de Usuários
+- Noções Básicas do Trabalho Remoto
+- Lei Geral de Proteção de Dados (LGPD)
 
 ## Competências
 
